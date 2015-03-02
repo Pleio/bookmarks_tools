@@ -7,6 +7,7 @@ $english = array(
 		'bookmarks_tools:settings:link_behaviour:options:blank_external' => "External links open in a new window",
 		'bookmarks_tools:settings:link_behaviour:options:blank_icon' => "An extra icon next to the link should open the link in a new window. Clicking the link keeps default behaviour",
 		'bookmarks_tools:entity:href:new_window' => "Open in a new window",
+		'bookmarks_tools:settings:link_behaviour:comments' => "Show comments page for links"
 );
 
 add_translation("en", $english);

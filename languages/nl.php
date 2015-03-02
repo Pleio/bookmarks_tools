@@ -6,5 +6,6 @@ $language = array(
 		'bookmarks_tools:settings:link_behaviour:options:blank_external' => 'Externe links openen in een nieuw scherm',
 		'bookmarks_tools:settings:link_behaviour:options:blank_icon' => 'Een extra icoon naast de link opent de url in een nieuw scherm. De link zelf behoudt het standaard gedrag.',
 		'bookmarks_tools:entity:href:new_window' => 'Open in een nieuw scherm',
+		'bookmarks_tools:settings:link_behaviour:comments' => "Toon reactiepagina bij een link"
 );
 add_translation("nl", $language);
