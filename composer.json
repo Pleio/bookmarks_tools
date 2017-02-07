@@ -1,5 +1,5 @@
 {
-    "name": "coldtrick/bookmarks_tools",
+    "name": "pleio/bookmarks_tools",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
